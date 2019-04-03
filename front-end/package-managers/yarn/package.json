@@ -1,0 +1,16 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.11"
+  }
+}
